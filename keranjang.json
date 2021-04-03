@@ -1,0 +1,24 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "MG28J5285US, Grill, 28 L",
+      "gambar": "https://images.samsung.com/is/image/samsung/id-microwave-oven-grill-mg28j5285us-mg28j5285us-se-001-front-silver?$684_547_PNG$",
+      "harga": 1600000,
+      "stok": 2,
+      "qty": 1
+    },
+    {
+      "id": 9,
+      "nama": "Panasonic Microwave Convection Oven NU-SC100W",
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/2/20/10545615/10545615_53fd078e-fb1a-4796-a247-c63f7759e9d6_1000_1000.jpg.webp?ect=4g",
+      "harga": 3645000,
+      "stok": 2,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

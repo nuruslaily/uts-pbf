@@ -1,0 +1,78 @@
+{
+  "microwave": [
+    {
+      "id": 1,
+      "nama": "MG28J5285US, Grill, 28 L",
+      "harga": 1600000,
+      "gambar": "https://images.samsung.com/is/image/samsung/id-microwave-oven-grill-mg28j5285us-mg28j5285us-se-001-front-silver?$684_547_PNG$",
+      "stok": 2
+    },
+    {
+      "id": 2,
+      "nama": "Panasonic NN ST34",
+      "harga": 1699000,
+      "gambar": "https://www.pngkit.com/png/full/121-1219141_microwave-oven-nn-st34-microwave-panasonic-nn-st34hm.png",
+      "stok": 2
+    },
+    {
+      "id": 3,
+      "nama": "SHARP Microwave Oven R-728(K)-IN",
+      "harga": 1384000,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/SHARP-Microwave-Oven-R-728-K-IN--SKU05715371-2017418132214.jpg",
+      "stok": 2
+    },
+    {
+      "id": 4,
+      "nama": "ELECTROLUX EMS2348X",
+      "harga": 2090000,
+      "gambar": "https://www.electrolux.co.id/globalassets/3-images/ems2348x_right_700x700-min.png?preset=large",
+      "stok": 2
+    },
+    {
+      "id": 5,
+      "nama": "SHARP R-728R Compact Grill Microwave oven 25L - Putih",
+      "harga": 1189000,
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/attachment/2021/3/31/65580410/65580410_d23ed339-a4c6-453b-af4a-3b4fcb138d63.jpg.webp?ect=4g",
+      "stok": 2
+    },
+    {
+      "id": 6,
+      "nama": "Panasonic NN-ST32HMTTE Microwave Oven Low Watt NNST32 ST32",
+      "harga": 1749000,
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/8/12/771062413/771062413_58917519-4740-4c28-b336-f1dcd8b7ac11_979_979.jpg.webp?ect=4g",
+      "stok": 2
+    },
+    {
+      "id": 7,
+      "nama": "Samsung ME731K/XSE Microwave Oven [20 L]",
+      "harga": 988000,
+      "gambar": "https:////images.samsung.com/is/image/samsung/id-microwave-oven-solo-me731k-me731k-xse--315512156?$684_547_PNG$",
+      "stok": 2
+    },
+    {
+      "id": 8,
+      "nama": "AQUA AEM-S1112S",
+      "harga": 801000,
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/7/23/17312217/17312217_d14c453e-64ed-4f4b-a965-377f58f8515e_700_700.webp?ect=4g",
+      "stok": 2
+    },
+    {
+      "id": 9,
+      "nama": "Panasonic Microwave Convection Oven NU-SC100W",
+      "harga": 3645000,
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/2/20/10545615/10545615_53fd078e-fb1a-4796-a247-c63f7759e9d6_1000_1000.jpg.webp?ect=4g",
+      "stok": 2
+    },
+    {
+      "id": 10,
+      "nama": "MICROWAVE SHARP R21DO Sharp Microwave Oven Low Watt 23 L R-21DO(S)-IN - STANDARD",
+      "harga": 868000,
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/11/25/7416984b-62e7-475f-a709-c0a7a9f6363c.jpg.webp?ect=4g",
+      "stok": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
